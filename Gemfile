@@ -13,6 +13,8 @@ gem 'jbuilder', '~> 1.2'
 gem 'unicorn'
 gem "rack-timeout"
 gem 'newrelic_rpm'
+gem 'omniauth-facebook'
+gem 'andand'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
